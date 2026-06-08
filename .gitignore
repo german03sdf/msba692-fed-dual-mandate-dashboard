@@ -1,0 +1,28 @@
+# Environment variables — never commit credentials
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Power BI
+*.pbix
+
+# Logs
+*.log
+
+# Jupyter
+.ipynb_checkpoints/
